@@ -127,11 +127,11 @@ label{
 
 }
 .slide{
-    margin-left: 700px;
+    margin-left: 750px;
     margin-top: -400px;
     /* border-radius: 10%; */
     transition: 0.3s;
-    width:300px;
+    width:500px;
     
 }
 
