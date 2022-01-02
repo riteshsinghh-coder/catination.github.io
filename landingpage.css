@@ -128,10 +128,10 @@ label{
 }
 .slide{
     margin-left: 800px;
-    margin-top: -400px;
+    margin-top: -460px;
     /* border-radius: 10%; */
     transition: 0.3s;
-    width:500px;
+/*     width:500px; */
     
 }
 
